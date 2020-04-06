@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="WordCount:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d92371c-3501-4f2f-9fab-fab8bbe6959c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aAhrQMQBt2N0HBT9JiIMr8JXag" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d92371c-3501-4f2f-9fab-fab8bbe6959c" name="Default Changelist" comment="" />
+      <created>1586184507951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586184507951</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="607" y="329" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1586192794920">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="607" y="329" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586192794920" />
+    <state x="603" y="344" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586195643559">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="603" y="344" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586195643559" />
+    <state width="1346" height="278" key="GridCell.Tab.0.bottom" timestamp="1586197749797">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1346" height="278" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586197749797" />
+    <state width="1346" height="278" key="GridCell.Tab.0.center" timestamp="1586197749797">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1346" height="278" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586197749797" />
+    <state width="1346" height="278" key="GridCell.Tab.0.left" timestamp="1586197749797">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1346" height="278" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586197749797" />
+    <state width="1346" height="278" key="GridCell.Tab.0.right" timestamp="1586197749797">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1346" height="278" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586197749797" />
+    <state x="353" y="135" key="SettingsEditor" timestamp="1586196285152">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="353" y="135" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1586196285152" />
+    <state x="745" y="336" key="chooseDestDirectoryDialog" timestamp="1586192617499">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="745" y="336" key="chooseDestDirectoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586192617499" />
+    <state x="541" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1586184545714">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="541" y="349" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586184545714" />
+  </component>
+</project>

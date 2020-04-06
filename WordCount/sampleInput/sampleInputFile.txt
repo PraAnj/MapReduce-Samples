@@ -1,0 +1,35 @@
+Nash was born on June 13, 1928, in Bluefield, West Virginia. His father, John Forbes Nash, was an electrical engineer for the Appalachian Electric Power Company. His mother, Margaret Virginia (née Martin) Nash, had been a schoolteacher before she was married. He was baptized in the Episcopal Church.[8] He had a younger sister, Martha (born November 16, 1930).[9]
+
+Nash attended kindergarten and public school, and he learned from books provided by his parents and grandparents.[9] Nash's parents pursued opportunities to supplement their son's education, and arranged for him to take advanced mathematics courses at a local community college during his final year of high school. He attended Carnegie Institute of Technology (which later became Carnegie Mellon University) through a full benefit of the George Westinghouse Scholarship, initially majoring in chemical engineering. He switched to a chemistry major and eventually, at the advice of his teacher John Lighton Synge, to mathematics. After graduating in 1948 (at age 19) with both a B.S. and M.S. in mathematics, Nash accepted a scholarship to Princeton University, where he pursued further graduate studies in mathematics.[9]
+
+Nash's adviser and former Carnegie professor Richard Duffin wrote a letter of recommendation for Nash's entrance to Princeton stating, "He is a mathematical genius."[10][11] Nash was also accepted at Harvard University. However, the chairman of the mathematics department at Princeton, Solomon Lefschetz, offered him the John S. Kennedy fellowship, convincing Nash that Princeton valued him more.[12] Further, he considered Princeton more favorably because of its proximity to his family in Bluefield.[9] At Princeton, he began work on his equilibrium theory, later known as the Nash equilibrium.[13]
+
+Major contributions
+
+Nash in November 2006 at a game theory conference in Cologne, Germany
+Game theory
+Nash earned a Ph.D. in 1950 with a 28-page dissertation on non-cooperative games.[14][15]
+
+The thesis, written under the supervision of doctoral advisor Albert W. Tucker, contained the definition and properties of the Nash equilibrium, a crucial concept in non-cooperative games. It won Nash the Nobel Memorial Prize in Economic Sciences in 1994.
+
+Publications authored by Nash relating to the concept are in the following papers :
+
+Nash, John Forbes (1950). "Equilibrium Points in N-person Games". Proceedings of the National Academy of Sciences of the United States of America. 36 (1): 48–49. Bibcode:1950PNAS...36...48N. doi:10.1073/pnas.36.1.48. MR 0031701. PMC 1063129. PMID 16588946.
+Nash, John Forbes (1950). "The Bargaining Problem" (PDF). Econometrica. Econometric Society. 18 (2): 155–62. doi:10.2307/1907266. JSTOR 1907266. MR 0035977.
+Nash, John Forbes (1951). "Non-cooperative Games" (PDF). Annals of Mathematics. Princeton, New Jersey: Princeton University. 54 (2): 286–95. doi:10.2307/1969529. JSTOR 1969529. MR 0043432.
+Nash, John Forbes (1953). "Two-person Cooperative Games" (PDF). Econometrica. Econometric Society. 21 (1): 128–40. doi:10.2307/1906951. JSTOR 1906951. MR 0053471. Archived from the original (PDF) on March 29, 2017. Retrieved January 4, 2017.
+Other mathematics
+Nash did groundbreaking work in the area of real algebraic geometry:
+
+Nash, John Forbes (1952). "Real algebraic manifolds". Annals of Mathematics. 56 (3): 405–21. doi:10.2307/1969649. JSTOR 1969649. MR 0050928. See "Proc. Internat. Congr. Math". AMS. 1952: 516–17.
+His work in mathematics includes the Nash embedding theorem, which shows that every abstract Riemannian manifold can be isometrically realized as a submanifold of Euclidean space. He also made significant contributions to the theory of nonlinear parabolic partial differential equations and to singularity theory.
+
+Mikhail Leonidovich Gromov writes about Nash's work:
+
+Nash was solving classical mathematical problems, difficult problems, something that nobody else was able to do, not even to imagine how to do it. ... But what Nash discovered in the course of his constructions of isometric embeddings is far from 'classical' — it is something that brings about a dramatic alteration of our understanding of the basic logic of analysis and differential geometry. Judging from the classical perspective, what Nash has achieved in his papers is as impossible as the story of his life ... [H]is work on isometric immersions ... opened a new world of mathematics that stretches in front of our eyes in yet unknown directions and still waits to be explored.[16]
+
+John Milnor gives a list of 21 publications.[17]
+
+In the Nash biography A Beautiful Mind, author Sylvia Nasar explains that Nash was working on proving Hilbert's nineteenth problem, a theorem involving elliptic partial differential equations when, in 1956, he suffered a severe disappointment. He learned that an Italian mathematician, Ennio de Giorgi, had published a proof just months before Nash achieved his. Each took different routes to get to their solutions. The two mathematicians met each other at the Courant Institute of Mathematical Sciences of New York University during the summer of 1956. It has been speculated that if only one had solved the problem, he would have been given the Fields Medal for the proof.[9]
+
+In 2011, the National Security Agency declassified letters written by Nash in the 1950s, in which he had proposed a new encryption–decryption machine.[18] The letters show that Nash had anticipated many concepts of modern cryptography, which are based on computational hardness.[19]
