@@ -14,7 +14,7 @@ This repository contains simple map reduce codes using hadoop mostly written usi
 </p>
 4. Once completed the step you should observe following output.
 <p align="center">
-  <img src="__Guide__/Output_of_Reducers.PNG" width="500" title="Reducer Output">
+  <img src="__Guide__/Output_of_Reducers.PNG" width="330" title="Reducer Output">
 </p>
 
 # How to build Jar with dependencies with Mevan
