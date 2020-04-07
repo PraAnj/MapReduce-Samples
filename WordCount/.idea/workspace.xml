@@ -7,6 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d92371c-3501-4f2f-9fab-fab8bbe6959c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/WordCount.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WordCount.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +25,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -46,6 +51,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -103,5 +109,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="541" y="349" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586184545714" />
+    <state x="222" y="220" key="new project wizard" timestamp="1586239829548">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="222" y="220" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1586239829548" />
   </component>
 </project>
