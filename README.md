@@ -1,10 +1,10 @@
 # MapReduce  Sample  codes
 This repository contains simple map reduce codes using hadoop mostly written using java.
 
-| Program           | Language | Description                                              |
-|-------------------|----------|----------------------------------------------------------|
-| WordCount         | Java     | Count the number of occurences for each word in the file |
-| AverageWordLength | Java     | Measure the average word length of the file.             |
+| Program           | Language | Description                                                 |
+|-------------------|----------|-------------------------------------------------------------|
+| WordCount         | Java     | Count the number of occurences for each word in input files |
+| AverageWordLength | Java     | Measure the average word length of input files.             |
 
 #  How to run on AWS EMR   
 
